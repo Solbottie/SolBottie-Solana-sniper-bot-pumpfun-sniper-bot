@@ -59,7 +59,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
 
 SolBottie is an advanced trading bot designed to facilitate seamless trading on the Solana blockchain and Pump.fun platform. It integrates with major decentralized exchanges on Solana like Jupiter, Orca, and Radium, providing users with a comprehensive suite of trading tools and strategies tailored for both novice and experienced traders.
 
